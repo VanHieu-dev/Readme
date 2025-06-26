@@ -31,7 +31,9 @@ Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng
 ## 4. Sơ Đồ Thuật Toán / Sơ Đồ Tuần Tự
 ![mermaid-ai-diagram-2025-03-06-044056](https://github.com/user-attachments/assets/b24af279-b82a-471d-b852-a65aaf45640d)
 ## 5. Class Diagram
-![Image](https://github.com/user-attachments/assets/47f9a287-2675-472a-9002-ea6e0c1e727b)
+![Image](<img width="848" alt="Screen Shot 2025-06-26 at 09 06 44" src="https://github.com/user-attachments/assets/aaf71446-809a-4760-bf44-447e6329763f" />
+<img width="848" alt="Screen Shot 2025-06-26 at 09 06 44" src="https://github.com/user-attachments/assets/aaf71446-809a-4760-bf44-447e6329763f" />
+)
 
 ## 6. Các chức năng chính của dự án
 1. Trang đăng kí
